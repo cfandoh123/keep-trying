@@ -4,3 +4,5 @@
 2. measure 2 hours of time that has passed 
 3. promt the browser to open at one of the set URLs
 4. have a loop to do this
+
+# You can modify the time of wait if you want!
